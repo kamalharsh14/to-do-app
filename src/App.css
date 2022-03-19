@@ -1,0 +1,97 @@
+.main{
+  font-family: cursive;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+.card{
+  background-color: rgb(255, 255, 255);
+  color: black;
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-left: 3px;
+  padding-right: 3px;
+  padding-bottom: 3em;
+  border-radius: 20px;
+  box-shadow: 1px 1px 10px 1px rgb(190, 190, 190), -1px -1px 10px 1px rgb(190, 190, 190);
+}
+
+.header{
+  font-family: cursive;
+  background-color: #00779c;
+  padding: 10px;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+  margin-top: 10px;
+  border-radius: 4px;
+}
+
+.input input{
+  width: 70%;
+  height: 1.8rem;
+  text-align: center;
+  border-radius: 5px;
+  margin-bottom: 5%;
+  box-shadow: 1px 1px 4px 1px rgb(190, 190, 190);
+}
+
+.input input::placeholder{
+  font-family: cursive;
+}
+
+.input button{
+  width: 2.5rem;
+  height: 2.5rem;
+  font-size: larger;
+  text-align: center;
+  border-radius: 50px;
+  color: white;
+  margin-left: 4px;
+  margin-bottom: 2%;
+  background-color: #00779c;
+  box-shadow: 1px 1px 4px 1px rgb(190, 190, 190);
+}
+
+.input button:hover{
+  background-color: #478f00;
+}
+
+.list li{
+  list-style-type:disc;
+}
+
+.list li{
+  text-align: left;
+  color: white;
+  background-color: #00789c;
+  height: 2.5rem;
+  border-radius: 15px;
+  margin-top: 1%;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-left: 20px;
+}
+
+.list li{
+  padding-top: .5rem;
+}
+
+.list button{
+  float: right;
+  font-size: larger;
+  margin-left: 6px;
+  margin-right: 9px;
+  width: 2rem;
+  height:2rem;
+  text-align: center;
+  border-radius: 50px;
+  color: rgb(219, 219, 219);
+  background-color: #ff0000;
+  box-shadow: 1px 1px 4px 1px rgb(190, 190, 190);
+}
+
+.list button:hover{
+  background-color: #b90000;
+}
