@@ -1,6 +1,6 @@
 {
-  "name": "todoapp",
-  "homepage": "https://kamalharsh14.github.io/to-do",
+  "name": "to-do-app",
+  "homepage": "https://kamalharsh14.github.io/to-do-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
